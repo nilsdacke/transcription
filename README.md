@@ -15,4 +15,4 @@ The pipeline is organized in a sequence of steps with correspoding data director
 05-text complete transcription with speaker diarization
 ```
 
-A make file defines the processing steps.
+A `Makefile` defines the processing steps.
